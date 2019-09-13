@@ -1,10 +1,9 @@
-# Introdução ao React
+# Primeiro projeto com ReactJS
 
 ## Tarefas - checklist
 https://github.com/leohmoraes/rocketseat-05/projects/1
 
-# Primeiro projeto com ReactJS
-
+## Commits / Aulas
 * [01](https://github.com/leohmoraes/rocketseat-05/releases/tag/01) - Criando projeto do zero
 * [02](https://github.com/leohmoraes/rocketseat-05/releases/tag/02) - ESLint, Prettier & EditorConfig
 * [03](https://github.com/leohmoraes/rocketseat-05/releases/tag/03) - Roteamento no React
