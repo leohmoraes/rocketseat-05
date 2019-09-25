@@ -85,7 +85,7 @@ export const List = styled.ul`
     padding: 15px 0;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-between; /* coloca um espaco entre as duas tags de elementos */
     align-items: center;
 
     /*
